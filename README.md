@@ -6,7 +6,7 @@
 
 <br> 
 
-when you don't want to accidentally click on an unrated game 
+A filter made so that you can accept open challenges before other players can steal them 
 
 <br> 
 
