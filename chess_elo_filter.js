@@ -1,6 +1,6 @@
 (() => {
   window.__elo?.();
-  const s = prompt('Elo range + rated/unrated (omit = both)', '1000-1200 rated');
+  const s = prompt('Elo range + rated/unrated (omit for both)', '1000-1200 rated');
   if (!s) return;
   const [lo = 0, hi = 1e4] = (s.match(/\d+/g) || []).map(Number).sort((x, y) => x - y);
   const un = /unrated/i.test(s) ? true : /rated/i.test(s) ? false : null;
