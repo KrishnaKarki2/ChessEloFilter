@@ -1,4 +1,11 @@
 # ChessEloFilter
+
+<img width="368" height="241" alt="ChessFilter " src="https://github.com/user-attachments/assets/02f2e977-3de2-45f1-b71f-db8bbdaca90f" /> 
+
+<br>
+
+<br> 
+
 when you don't want to accidentally click on an unrated game 
 
 <br> 
