@@ -6,7 +6,7 @@
 
 <br> 
 
-A filter made so that you can accept open challenges before other players can steal them 
+A afilter made so that you can accept open challenges before other players can steal them 
 
 <br> 
 
